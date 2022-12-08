@@ -16102,3 +16102,6 @@
 {"metricset": {"name": "network"}, "network": {"macvlan_0": {"tx_bytes": 1116041072, "rx_bytes": 3820857611}, "all_iface": {"rx_bytes": 3820857611, "tx_bytes": 1116041072}}}
 {"metricset": {"name": "network"}, "network": {"macvlan_0": {"tx_bytes": 1116051824, "rx_bytes": 3820900345}, "all_iface": {"rx_bytes": 3820900345, "tx_bytes": 1116051824}}}
 {"metricset": {"name": "network"}, "network": {"macvlan_0": {"tx_bytes": 1116051824, "rx_bytes": 3820901776}, "all_iface": {"rx_bytes": 3820901776, "tx_bytes": 1116051824}}}
+{"metricset": {"name": "network"}, "network": {"macvlan_0": {"tx_bytes": 1116051824, "rx_bytes": 3820902196}, "all_iface": {"rx_bytes": 3820902196, "tx_bytes": 1116051824}}}
+{"metricset": {"name": "network"}, "network": {"macvlan_0": {"tx_bytes": 1116051824, "rx_bytes": 3820906636}, "all_iface": {"rx_bytes": 3820906636, "tx_bytes": 1116051824}}}
+{"metricset": {"name": "network"}, "network": {"macvlan_0": {"tx_bytes": 1116051824, "rx_bytes": 3820934716}, "all_iface": {"rx_bytes": 3820934716, "tx_bytes": 1116051824}}}
