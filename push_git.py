@@ -27,7 +27,7 @@ def main(token, git_url):
     subprocess.call(cmd, shell=True)
 
     cmd = 'git push -u origin master -f'
-    print(subprocess.call(cmd, shell=True),'==========================')
+    subprocess.call(cmd, shell=True)
 
 
 if __name__ == '__main__':
